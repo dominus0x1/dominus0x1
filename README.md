@@ -269,24 +269,50 @@
 
 ---
 
-## 📬 Connect With Me
+## 🔗 My Links
+
 <details>
-<summary><b>🤝 Let’s Stay in Touch (Click to Expand)</b></summary><br>
-
-<div align="center">
-  <a href="mailto:egodominus0x1@gmail.com">
-    <img height="40" alt="Gmail" src="https://raw.githubusercontent.com/dominus0x1/dominus0x1/main/images/gmail.svg" />
-  </a>
-<!--   <a href="https://linkedin.com/in/your-linkedin">
-    <img height="40" alt="LinkedIn" src="https://raw.githubusercontent.com/dominus0x1/dominus0x1/main/images/linkedin.svg" />
-  </a> -->
-  <a href="https://x.com/dominus0x1">
-    <img height="40" alt="X" src="https://raw.githubusercontent.com/dominus0x1/dominus0x1/main/images/X.svg" />
-  </a>
-</div>
-
-*Replace with your actual links/emails.*
-
+  <div align="center">
+    <a href="https://t.me/dominus0x1">
+      <img height="40" alt="Telegram" title="Telegram" src="./images/telegram.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="mailto:egodominus0x1@Gmail.com">
+      <img height="40" alt="Gmail" title="Gmail" src="./images/gmail.svg" />
+    </a>
+    <!-- &nbsp;&nbsp;
+    <a href="https://linkedin.com/in/">
+      <img height="40" alt="LinkedIn" title="LinkedIn" src="./images/linkedin.svg" />
+    </a> -->
+    &nbsp;&nbsp;
+    <a href="https://instagram.com/dominus0x1">
+      <img height="40" alt="Instagram" title="Instagram" src="./images/instagram.svg" />
+    </a>
+    <!-- &nbsp;&nbsp;
+    <a href="https://facebook.com/">
+      <img height="40" alt="Facebook" title="Facebook" src="./images/facebook.svg" />
+    </a> -->
+    &nbsp;&nbsp;
+    <a href="https://x.com/dominus0x1">
+      <img height="40" alt="X" title="X" src="./images/X.svg" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://freecodecamp.org/dominus0x1">
+      <img height="40" alt="FreeCodeCamp" title="FreeCodeCamp" src="./images/fcc.svg" />
+    </a>
+    <!-- &nbsp;&nbsp;
+    <a href="https://sololearn.com/profile/">
+      <img height="40" alt="SoloLearn" title="SoloLearn" src="./images/sololearn.svg" />
+    </a> -->
+    <!-- &nbsp;&nbsp;
+    <a href="https://steamcommunity.com/id/">
+      <img height="40" alt="Steam" title="Steam" src="./images/steam.svg" />
+    </a> -->
+    <!-- &nbsp;&nbsp;
+    <a href="https://discordapp.com/users/">
+      <img height="40" alt="Discord" title="Discord" src="./images/discord.svg" />
+    </a> -->
+  </div>
 </details>
 
 ---
