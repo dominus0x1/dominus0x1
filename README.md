@@ -116,13 +116,13 @@
 <summary><b>🤝 Let’s Stay in Touch (Click to Expand)</b></summary><br>
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:egodominus0x1@gmail.com">
     <img height="40" alt="Gmail" src="https://raw.githubusercontent.com/dominus0x1/dominus0x1/main/images/gmail.svg" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+<!--   <a href="https://linkedin.com/in/your-linkedin">
     <img height="40" alt="LinkedIn" src="https://raw.githubusercontent.com/dominus0x1/dominus0x1/main/images/linkedin.svg" />
-  </a>
-  <a href="https://x.com/your-x-handle">
+  </a> -->
+  <a href="https://x.com/dominus0x1">
     <img height="40" alt="X" src="https://raw.githubusercontent.com/dominus0x1/dominus0x1/main/images/X.svg" />
   </a>
 </div>
