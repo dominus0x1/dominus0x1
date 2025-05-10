@@ -155,7 +155,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <img alt="JS" title="A High-Level, Often Just-in-Time Compiled and Multi-Paradigm Programming Language" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
   </a>
-  <a href="https://typescriptlang.org">
+  <!-- <a href="https://typescriptlang.org">
     <img alt="TS" title="TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale." src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   </a>
   <a href="https://jquery.com">
@@ -214,7 +214,7 @@
   </a>
   <a href="https://heroku.com">
     <img alt="Heroku" title="A Cloud Platform as a Service Supporting Several Programming Languages." src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://ubuntu.com">
     <img alt="Ubuntu" title="A Linux Distribution" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
   </a>
@@ -224,9 +224,9 @@
   <a href="https://figma.com">
     <img alt="Figma" title="A vector graphics editor and prototyping tool" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   </a>
-  <a href="https://adobe.com/products/xd.html">
+  <!-- <a href="https://adobe.com/products/xd.html">
     <img alt="Adobe XD" title="A Vector-Based User Experience Design Tool for Web and Mobile Apps" src="https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=AdobeXD&logoColor=#FF61F6" />
-  </a>
+  </a> -->
   <a href="https://adobe.com/products/photoshop.html">
     <img alt="PhotoShop" title="A Raster Graphics Editor" src="https://img.shields.io/badge/Photoshop-%2331A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
   </a>
@@ -243,15 +243,15 @@
   <a href="https://microsoft.com/en-us/microsoft-365/excel">
     <img alt="Excel" title="A Spread Sheet to Organize Data and Perform Financial Analysis" src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
   </a>
-  <a href="https://microsoft.com/en-us/microsoft-365/access">
+  <!-- <a href="https://microsoft.com/en-us/microsoft-365/access">
     <img alt="Access" title="An Information Management Tool, or Relational Database, Helps You Store Information for Reference, Reporting and Analysis" src="https://img.shields.io/badge/Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white" />
-  </a>
+  </a> -->
   <a href="https://microsoft.com/en-us/microsoft-365/outlook">
     <img alt="Outlook" title="A Personal Information Manager Software System" src="https://img.shields.io/badge/Outlook-0072c6?style=flat-square&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://app.powerbi.com">
+  <!-- <a href="https://app.powerbi.com">
     <img alt="Power Bi" title="An Interactive Data Visualization Software Product with a Primary Focus on Business Intelligence" src="https://img.shields.io/badge/Power_Bi-e9b51c?style=flat-square&logo=powerbi&logoColor=white" />
-  </a>
+  </a> -->
 </details>
 
 ---
