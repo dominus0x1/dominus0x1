@@ -12,7 +12,7 @@
     <img alt="Repos" title="My Repositories" src="https://badges.pufler.dev/repos/dominus0x1?color=success&logo=github" />
   </a>
   <a href="https://wakatime.com/@dominus0x1">
-    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" alt="Total Time Coded" />
+    <img src="https://wakatime.com/badge/user/dominus0x1.svg" alt="Total Time Coded" />
   </a>
 </div>
 
