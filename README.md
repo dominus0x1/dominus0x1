@@ -111,8 +111,9 @@
 
 ---
 
+## 🎓 My Knowledge
+
 <details>
-  ## 🎓 My Knowledge
 
   <a href="https://linux.com">
     <img alt="Linux" title="Linux is a Family of Open-source Unix-like Operating Systems Based on the Linux Kernel" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
