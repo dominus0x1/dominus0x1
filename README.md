@@ -326,6 +326,16 @@
   </a>
 </details>
 
+---
+
+## 📊 My Codewars Stats
+
+<details>
+
+  <a href="https://codewars.com/users/dominus0x1">
+    <img alt="CodeWars" title="Practice Makes Perfect" src="https://codewars.com/users/dominus0x1/badges/large" />
+  </a><br>
+</details>
 
 ---
 
