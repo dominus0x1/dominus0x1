@@ -11,9 +11,9 @@
   <a href="https://github.com/dominus0x1?tab=repositories">
     <img alt="Repos" title="My Repositories" src="https://badges.pufler.dev/repos/dominus0x1?color=success&logo=github" />
   </a>
-  <a href="https://wakatime.com/@dominus0x1">
+  <!-- <a href="https://wakatime.com/@dominus0x1">
     <img src="https://wakatime.com/badge/user/dominus0x1.svg" alt="Total Time Coded" />
-  </a>
+  </a> -->
 </div>
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27" alt="wave" /> Hello, World!
