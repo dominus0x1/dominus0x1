@@ -16,7 +16,7 @@
   </a>
   <br>
   <a href="https://wakatime.com/dominus0x1">
-    <img src="https://wakatime.com/badge/user/547ff532-32f5-41bf-aba6-cbc2785b8253.svg" alt="Total Time Coded" />
+    <img src="https://wakatime.com/badge/user/dominus0x1.svg" alt="Total Time Coded" />
   </a>
   <a href="https://microsoft.com/software-download/windows11">
     <img alt="Ubuntu" title="Using Windows 11" src="https://img.shields.io/badge/Windows_11-004Fe1?logo=windows&logoColor=white" />
