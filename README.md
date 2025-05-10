@@ -317,9 +317,9 @@
 
 ---
 
+  ## 🏆 My Github Profile Trophies
 
 <details>
-  <summary><b>🏆 My Github Profile Trophies</b></summary><br>
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=dominus0x1&theme=radical&margin-w=30&no-frame=true" />
