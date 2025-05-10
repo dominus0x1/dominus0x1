@@ -1,7 +1,7 @@
 ## Hi there 👋
 # 👋 Welcome to Dominus0x1's GitHub! 🚀
 
-Hey there! I'm **Dominus0x1**, a budding **junior web developer** diving into the **MERN Stack** (MongoDB, Express.js, React, Node.js). I started coding 10 days ago, and I'm excited to share my learning journey, projects, and coding stats here! 🌟
+A **junior web developer**. I'm excited to share my learning journey, projects, and coding stats here! 🌟
 
 ![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Learner-brightgreen) ![GitHub](https://img.shields.io/github/followers/dominus0x1?label=Follow&style=social) ![WakaTime](https://img.shields.io/badge/WakaTime-Tracking%20Code%20Time-blue)
 
