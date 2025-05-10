@@ -3,8 +3,6 @@
 
 A **junior web developer**. I'm excited to share my learning journey, projects, and coding stats here! 🌟
 
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-Learner-brightgreen) ![GitHub](https://img.shields.io/github/followers/dominus0x1?label=Follow&style=social) ![WakaTime](https://img.shields.io/badge/WakaTime-Tracking%20Code%20Time-blue)
-
 ---
 
 ## 🌟 About Me
