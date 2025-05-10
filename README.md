@@ -1,18 +1,31 @@
-<div align="center">
+<div>
   <a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img alt="Visitors" title="Profile Views" src="https://komarev.com/ghpvc/?username=dominus0x1&label=Visitors&color=blueviolet" />
+    <img alt="Visitors" title="Times my Page Visited" src="https://komarev.com/ghpvc/?username=dominus0x1&label=Visitors&color=blueviolet" />
   </a>
   <a href="https://github.com/chetanraj/awesome-github-badges">
-    <img alt="Love" title="Coding with Passion" src="https://img.shields.io/badge/Code_with-Love-red?logo=southwestairlines" />
-  </a>
+    <img alt="Love" title="Always Coding with Love <3" src="https://img.shields.io/badge/Code_with-Love-red?logo=southwestairlines" />
+  </a> 
   <a href="https://badges.pufler.dev">
-    <img alt="Years" title="Coding Journey" src="https://badges.pufler.dev/years/dominus0x1?color=orange&logo=dreamstime&logoColor=white" />
+    <img alt="Years" title="Years I am Coding" src="https://badges.pufler.dev/years/dominus0x1?color=orange&logo=dreamstime&logoColor=white" />
   </a>
   <a href="https://github.com/dominus0x1?tab=repositories">
     <img alt="Repos" title="My Repositories" src="https://badges.pufler.dev/repos/dominus0x1?color=success&logo=github" />
   </a>
-  <!-- <a href="https://wakatime.com/@dominus0x1">
-    <img src="https://wakatime.com/badge/user/dominus0x1.svg" alt="Total Time Coded" />
+  <a href="https://badges.pufler.dev">
+    <img alt="Commits" title="My Commits" src="https://badges.pufler.dev/commits/monthly/dominus0x1?color=green&logo=hotjar&logoColor=white" />
+  </a>
+  <br>
+  <a href="https://wakatime.com/dominus0x1">
+    <img src="https://wakatime.com/badge/user/547ff532-32f5-41bf-aba6-cbc2785b8253.svg" alt="Total Time Coded" />
+  </a>
+  <a href="https://microsoft.com/software-download/windows11">
+    <img alt="Ubuntu" title="Using Windows 11" src="https://img.shields.io/badge/Windows_11-004Fe1?logo=windows&logoColor=white" />
+  </a>
+  <a href="https://google.com/chrome" >
+    <img alt="Chrome" title="My Browser" src="https://img.shields.io/badge/Google_Chrome-E62D2A?logo=GoogleChrome&logoColor=white" />
+  </a>
+  <!-- <a href="https://jetbrains.com/webstorm">
+    <img alt="WebStorm" title="My Editor" src="https://img.shields.io/badge/WebStorm-2086D7?logo=WebStorm&logoColor=white" />
   </a> -->
 </div>
 
