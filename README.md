@@ -16,11 +16,11 @@
   </a>
 </div>
 
-# 👋 Hello, World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27" alt="wave" />
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="27" alt="wave" /> Hello, World!
 
-> **I'm Dominus0x1, a beginner web developer from [Your Location] passionate about the MERN Stack!**  
+> **I'm Dominus0x1, a beginner web developer passionate about the MERN Stack!**  
 >  
-> I started my coding journey 10 days ago, focusing on **MongoDB, Express.js, React, and Node.js**. I’m excited to learn, build, and share my progress through projects and clean code. My goal is to become a skilled full-stack developer, creating dynamic and user-friendly web applications.  
+> I’m excited to learn, build, and share my progress through projects and clean code. My goal is to become a skilled full-stack developer, creating dynamic and user-friendly web applications.  
 >  
 > **Current Focus**: Mastering HTML, CSS, JavaScript, and exploring React for front-end magic.  
 > **Fun Fact**: I love turning ideas into code and debugging until it works! 🐛  
@@ -40,7 +40,6 @@
 <summary><b>🕒 WakaTime & GitHub Stats (Click to Expand)</b></summary><br>
 
 <!--START_SECTION:waka-->
-*Your coding stats will appear here after WakaTime setup!*
 <!--END_SECTION:waka-->
 
 <div align="center">
@@ -92,7 +91,6 @@
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
   <a href="https://code.visualstudio.com">
-    <img alt="VS Code"执导ef="noopener noreferrer" target="_blank">VS Code</a>
     <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   </a>
 
@@ -119,13 +117,13 @@
 
 <div align="center">
   <a href="mailto:your-email@example.com">
-    <img height="40" alt="Gmail" src="https://raw.githubusercontent.com/Amir-Pourhadi/Amir-Pourhadi/main/images/gmail.svg" />
+    <img height="40" alt="Gmail" src="https://raw.githubusercontent.com/dominus0x1/dominus0x1/main/images/gmail.svg" />
   </a>
   <a href="https://linkedin.com/in/your-linkedin">
-    <img height="40" alt="LinkedIn" src="https://raw.githubusercontent.com/Amir-Pourhadi/Amir-Pourhadi/main/images/linkedin.svg" />
+    <img height="40" alt="LinkedIn" src="https://raw.githubusercontent.com/dominus0x1/dominus0x1/main/images/linkedin.svg" />
   </a>
   <a href="https://x.com/your-x-handle">
-    <img height="40" alt="X" src="https://raw.githubusercontent.com/Amir-Pourhadi/Amir-Pourhadi/main/images/X.svg" />
+    <img height="40" alt="X" src="https://raw.githubusercontent.com/dominus0x1/dominus0x1/main/images/X.svg" />
   </a>
 </div>
 
